@@ -4,13 +4,11 @@
 <h3>Quien Soy?</h3>
 <h4 align="center">Soy programador Full Stack, con formación como desarrollador web. Tengo experiencia trabajando en Node, React, Redux, SQL, entre otras tecnologías del sector. Soy un apasionado por la tecnología y desde que estudiaba en la universidad me interesó la programación. También he desarrollado en VBA con el fin de crear herramientas en el hambito empresarial, que fueron de gran ayuda en su momento y la vez recibiendo el reconocimiento por parte de mis superiores.</h4>
 
-# 
 <h3>Que hago?</h3>
 <p align="center">
 🔭 Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como desarrollador y me encuentro trabajando en una aplicacion para manejo y alistamiento de pedidos, mas adelante disponible en mi GITHUB.
 </p>
 
-#
 
 <h3>Hacia donde me dirijo?</h3>
 <p align="center">
