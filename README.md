@@ -1,5 +1,5 @@
 # 
-// <h2 align="center">Hola! Mi nombre es Yeison Zea</h2>
+{*<h2 align="center">Hola! Mi nombre es Yeison Zea</h2>*}
  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%3498DB&size=32&center=true&vCenter=true&width=600&height=50&lines=¡Hola,+soy+Yeison+Zea!+%F0%9F%91%8B;Full+Stack+Developer;Ingeniero+Industrial;Problem+Solver;Rapid+learning;Discipline;Curiosity+and+research" alt="Headline" />
 
 <h3>Quien Soy?</h3>
