@@ -5,24 +5,24 @@
 
 #
 
-<h3>Quien Soy?</h3>
-<h4 align="center">Soy programador Full Stack, con formación como desarrollador web. Tengo experiencia trabajando en Node, React, Redux, SQL, entre otras tecnologías del sector. Soy un apasionado por la tecnología y desde que estudiaba en la universidad me interesó la programación. También he desarrollado en VBA con el fin de crear herramientas en el hambito empresarial, que fueron de gran ayuda en su momento y la vez recibiendo el reconocimiento por parte de mis superiores.</h4>
+<h3>Quién Soy?</h3>
+<h4 align="center">Soy programador Full Stack. Tengo experiencia trabajando en Node, React, Redux, SQL, entre otras tecnologías del sector. Soy un apasionado por la tecnología y desde que estudiaba en la universidad me interesó la programación. También he desarrollado en VBA con el fin de crear herramientas en el ámbito empresarial, que fueron de gran ayuda en su momento y a la vez recibiendo el reconocimiento por parte de mis superiores.</h4>
 
 # 
-<h3>Que hago?</h3>
+<h3>Qué hago?</h3>
 <p align="center">
-🔭 Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como desarrollador y me encuentro trabajando en una aplicacion para manejo y alistamiento de pedidos, mas adelante disponible en mi GITHUB.
+🔭 Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como desarrollador y me encuentro trabajando en una aplicación para manejo y alistamiento de pedidos, más adelante disponible en mi GITHUB.
 </p>
 
 #
 
-<h3>Hacia donde me dirijo?</h3>
+<h3>Hacia dónde me dirijo?</h3>
 <p align="center">
-Teniendo en cuenta que no solo disfruto de la programación y que deseo transformar procesos a travez de la misma, mi objetivo es crear e innovar, generando cambios increibles en mi entorno, optimizando tareas y funcionalidades para hacer mas fácil la vida de los demás.
+Teniendo en cuenta que no solo disfruto de la programación y que deseo transformar procesos a través de la misma, mi objetivo es crear e innovar, generando cambios increíbles en mi entorno, optimizando tareas y funcionalidades para hacer más fácil la vida de los demás.
 </p>
 
 #
-<h3 align="center">Tecnologías que utilizo:</h3>
+<h3 align="left">Tecnologías que utilizo:</h3>
 
  <div align="center">
  <Br><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
@@ -80,7 +80,7 @@ Teniendo en cuenta que no solo disfruto de la programación y que deseo transfor
   </div>
 
 <p align="center">
-De igual manera, sigo ampliando mis conocimientos segun sea requerido con el fin de optimizar mejor las aplicaciones o proyectos en los que me encuentre trabajando.
+De igual manera, sigo ampliando mis conocimientos según sea requerido con el fin de optimizar mejor las aplicaciones o proyectos en los que me encuentre trabajando.
 </p>
 
 <!-- #
